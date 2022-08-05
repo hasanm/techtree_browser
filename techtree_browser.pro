@@ -10,9 +10,6 @@ RESOURCES = jquery.qrc
 CONFIG -= qtquickcompiler
 CONFIG+=c++14
 
-# install
-INSTALLS += target
-
 
 
 

@@ -51,8 +51,6 @@
 #include <QtWidgets>
 #include <QtWebEngineWidgets>
 #include "mainwindow.h"
-#include "cl_bridge_utils.hpp"
-
 
 
 MainWindow::MainWindow(const QUrl& url)
