@@ -62,7 +62,7 @@ int main(int argc, char * argv[])
     if (argc > 1)
         url = QUrl::fromUserInput(argv[1]);
     else
-        url = QUrl("https://banner-bandev.uleth.ca/");
+        url = QUrl("https://aoe2techtree.net/");
 
     QScreen *screen = QGuiApplication::primaryScreen();
     QRect rec = screen->availableGeometry();
